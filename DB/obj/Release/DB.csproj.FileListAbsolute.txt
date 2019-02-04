@@ -1,0 +1,12 @@
+C:\Users\bukhari\Documents\Visual Studio 2015\Projects\DB\DB\bin\Release\DB.dll
+C:\Users\bukhari\Documents\Visual Studio 2015\Projects\DB\DB\bin\Release\DB.pdb
+C:\Users\bukhari\Documents\Visual Studio 2015\Projects\DB\DB\bin\Release\ClosedXML.dll
+C:\Users\bukhari\Documents\Visual Studio 2015\Projects\DB\DB\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\bukhari\Documents\Visual Studio 2015\Projects\DB\DB\bin\Release\ExcelNumberFormat.dll
+C:\Users\bukhari\Documents\Visual Studio 2015\Projects\DB\DB\bin\Release\FastMember.Signed.dll
+C:\Users\bukhari\Documents\Visual Studio 2015\Projects\DB\DB\bin\Release\ClosedXML.xml
+C:\Users\bukhari\Documents\Visual Studio 2015\Projects\DB\DB\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\bukhari\Documents\Visual Studio 2015\Projects\DB\DB\bin\Release\ExcelNumberFormat.xml
+C:\Users\bukhari\Documents\Visual Studio 2015\Projects\DB\DB\obj\Release\DB.csprojResolveAssemblyReference.cache
+C:\Users\bukhari\Documents\Visual Studio 2015\Projects\DB\DB\obj\Release\DB.dll
+C:\Users\bukhari\Documents\Visual Studio 2015\Projects\DB\DB\obj\Release\DB.pdb
